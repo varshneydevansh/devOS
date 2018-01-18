@@ -56,3 +56,5 @@ $ qemu-system-x86_64 boot_sect_simple.bin
 ```
 You will see a window open which says "Booting from Hard Disk..." and
 nothing else.
+
+![alt text](https://github.com/varshneydevansh/devOS/blob/master/01-bootsector/Screenshot%20from%202018-01-19%2001-04-43.png)
